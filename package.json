@@ -24,7 +24,6 @@
     "build": "encore production --progress"
   },
   "engines": {
-    "node": "v16.13.*",
-    "npm": "8.19.*"
+    "yarn": "v1.22.*"
   }
 }
